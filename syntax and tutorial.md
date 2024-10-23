@@ -47,13 +47,15 @@ Q: My file won't run!
 
 A: It could be a hidden file extension. be sure to disable those then change your file type.
 
-
 Q. What do i do with this?
 
 A. No clue.
 
-
 Q. My code is correct but errors are showing!
 
-A. Check for gramatical errors/mistaken capitalizations
+A. Check for gramatical errors/mistaken capitalizations.
+
+Q. My program completed but it says "invalid function" at the end.
+
+A. Check for any extra lines/spaces below the code.
 
