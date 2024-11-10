@@ -1,4 +1,4 @@
-# Syntax And Tutorial:
+# Version 1.0 Syntax And Tutorial:
 ## Section one: Basic Syntax
 ### The four data types:
 There are 4 data types in sucrolose:
